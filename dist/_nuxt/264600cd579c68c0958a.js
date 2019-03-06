@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{256:function(t,e,n){"use strict";n.r(e);var l={},r=n(39),component=Object(r.a)(l,function(){var t=this.$createElement;return(this._self._c||t)("h1",[this._v("Posters")])},[],!1,null,null,null);e.default=component.exports}}]);
